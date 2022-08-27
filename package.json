@@ -1,0 +1,14 @@
+{
+  "name": "eslint-liboptions-parse-is-not-a-function",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node src/server/index.js"
+  },
+  "author": "jooy2 <jootc.help@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.23.0"
+  }
+}
