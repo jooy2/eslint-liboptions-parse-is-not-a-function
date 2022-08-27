@@ -1,5 +1,7 @@
 # ESLint 8.23.0 TypeError: this.libOptions.parse is not a function
 
+- Issue: https://github.com/eslint/eslint/issues/16250
+
 ```shell
 TypeError: this.libOptions.parse is not a function
 
